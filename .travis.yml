@@ -23,6 +23,3 @@ matrix:
       before_script:
         - cd app/
 
-notifications:
-  email:
-    - berkeutkuonder@u.yale-nus.edu.sg
