@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pay Me Back</string>
+    <string name="title_activity_second">Second</string>
+    <string name="title_activity_account">Account</string>
+    <string name="title_activity_securityquestion">Securityquestion</string>
+    <string name="title_activity_forget_password">forgetPassword</string>
+</resources>
